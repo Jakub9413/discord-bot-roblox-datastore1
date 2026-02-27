@@ -1,6 +1,6 @@
 Template for a discord bot to communicate with roblox datastores via OpenCloud
 
-Project uses environment tables:
+Project uses environment varuables:
 DISCORD_BOT_TOKEN
 ROBLOX_CLOUD_API_TOKEN
 DISCORD_GUILD_ID
